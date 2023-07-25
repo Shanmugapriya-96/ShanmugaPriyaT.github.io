@@ -1,8 +1,6 @@
 /* styles.css */
-#airbnb img,
-#penguin img,
-#covid img,
-#retail img {
+img {
   max-width: 100%;
   height: auto;
 }
+
