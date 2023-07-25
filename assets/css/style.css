@@ -1,8 +1,8 @@
 /* styles.css */
-img {
+#airbnb img,
+#penguin img,
+#covid img,
+#retail img {
   max-width: 100%;
   height: auto;
 }
-
-/* Add any other custom styles here */
-
